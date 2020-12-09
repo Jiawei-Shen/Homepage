@@ -110,11 +110,9 @@ June 2018 - Aug. 2018
 
 <ProjectCard hideBorder=true>
 
-  ***China Mobile (Hubei) Co., Ltd***
+  ***China Mobile (Hubei) Co., Ltd    <h1 style="text-align:right"> Mar. 2020 - July 2020</h1>***
 
-  NLP Algorithm Engineer Intern
-
-  Mar. 2020 - July 2020
+  NLP Algorithm Engineer Intern 
 
   **Supervisor:** Mr. Gennin Zhou
 
