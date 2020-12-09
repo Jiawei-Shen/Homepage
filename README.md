@@ -98,7 +98,7 @@ June 2018 - Aug. 2018
 
 <ProjectCard hideBorder=true>
 
-  ***Chebai Intelligent Network Research Institute (Wuhan) Co., Ltd***   <p align="right">July 2020 – Dec. 2020</p>
+  ***Chebai Intelligent Network Research Institute (Wuhan) Co., Ltd   <p align="right">July 2020 – Dec. 2020</p>***  
 
   Intern in Technical Research and Development Department 
 
