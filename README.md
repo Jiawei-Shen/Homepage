@@ -94,7 +94,7 @@ June 2018 - Aug. 2018
 
 </ProjectCard>
 
-### Working Experience
+## Working Experience
 
 <ProjectCard hideBorder=true>
 
@@ -125,6 +125,6 @@ June 2018 - Aug. 2018
 </ProjectCard>
 
 
-### Contests
+## Contests
 
 - "Meritorious Winner" prize in **Mathematical Contest In Modeling**
