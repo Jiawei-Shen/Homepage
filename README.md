@@ -1,5 +1,3 @@
----
-pageClass: home-page
 #<center>Jiawei Shen</center>
 School of Electronic and Information, Wuhan University
 
