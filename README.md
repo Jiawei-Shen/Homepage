@@ -1,4 +1,4 @@
-#<center>Jiawei Shen</center>
+#Jiawei Shen
 School of Electronic and Information, Wuhan University
 
 Wuhan 430072, China
