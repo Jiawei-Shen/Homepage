@@ -72,11 +72,9 @@ June 2018 - Aug. 2018
 
 <ProjectCard hideBorder=true>
 
-  ***Student Union*** *# freshman in School of Electronic Engineer*
+  ***Student Union  <p align="right">Sept. 2017 - June 2018</p>*** *# freshman in School of Electronic Engineer*
 
-  President
-
-  Sept. 2017 - June 2018
+  President  
 
   Managing the events of students from 2017 grade.   
 
@@ -84,11 +82,9 @@ June 2018 - Aug. 2018
 
 <ProjectCard hideBorder=true>
 
-  ***Ziqiang Studio*** *# Top 10 school union *
+  ***Ziqiang Studio  <p align="right">Sept. 2018 - June 2019</p>*** *# Top 10 school union*
 
-  Minister
-
-  Sept. 2018 - June 2019
+  Minister  
 
   Manage and Execute several kinds of off-line activities over the University.   
 
@@ -110,7 +106,7 @@ June 2018 - Aug. 2018
 
 <ProjectCard hideBorder=true>
 
-  ***China Mobile (Hubei) Co., Ltd    <h1 style="text-align:right"> Mar. 2020 - July 2020</h1>***
+  ***China Mobile (Hubei) Co., Ltd    <p align="right"> Mar. 2020 - July 2020</p>***
 
   NLP Algorithm Engineer Intern 
 
