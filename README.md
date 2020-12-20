@@ -31,7 +31,7 @@ June 2018 - Aug. 2018
 
   
   <div  align="center">    
-  <img src="/article/MI.png" width = "600" height = "400"  alt="图片名称" align=center/>
+  <img src="/article/MI.png" width = "70%" height = "7%0"  alt="图片名称" align=center/>
   </div>
 
 </ProjectCard>
