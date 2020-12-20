@@ -81,22 +81,30 @@ June 2018 - Aug. 2018
 
 <ProjectCard hideBorder=true>
 
-  ### Student Union  <p align="right">Sept. 2017 - June 2018</p>*** *# freshman in School of Electronic Engineer*
+  ### Student Union  <p align="right">Sept. 2017 - June 2018</p> *# freshman in School of Electronic Engineer*
   
   **Position**: President  
 
   **Key Duties:**  Managing the events of students from 2017 grade. For examples, check the security of the dormitory; establish the emergency funding for the students of 2017 grade; assess and evaluate the scholarship qualification for all the students of 2017 grade. 
+  
+  <div  align="center">    
+  <img src="/article/student union.png" width = "70%" height = "7%0"  alt="图片名称" align=center/>
+  </div>
 
 </ProjectCard>
 
 <ProjectCard hideBorder=true>
 
-  ### Ziqiang Studio  <p align="right">Sept. 2018 - June 2019</p>*** *# Top 10 school union*
+  ### Ziqiang Studio  <p align="right">Sept. 2018 - June 2019</p> *# Top 10 school union*
   [Link](https://www.ziqiang.net.cn/#index) (Sorry we don't have the English version)
 
   **Position:** Minister  
 
   **Key Duties:** Manage and Execute several kinds of influencial off-line activities over the University, including off-line activities that advertise our products; "Markets for the Gratuation" that provides students opportunities to reuse the items from the gratuates; and "Top 10 influencial students in Wuhan University". "Top 10 influencial students in Wuhan University" is one of the most important activities in our Universities. With the help of all the colleges, we collect the information of the outstanding students, including undergraduates, graduates, doctors, and even students organization, and select one of the most representive people in each spheres. 
+  
+  <div  align="center">    
+  <img src="/article/ziqiang.png" width = "70%" height = "7%0"  alt="图片名称" align=center/>
+  </div>
 
 </ProjectCard>
 
