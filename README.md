@@ -47,16 +47,15 @@ June 2018 - Aug. 2018
 
   [[Paper](https://ieeexplore.ieee.org/abstract/document/9045996)]
   [[Github](https://github.com/weiwenlan/Mobile-Lightweight-Super-Resolution-Construction-System)]
-
+  
+  <div  align="center">    
+  <img src="article/demo.gif" width = "25%" height = "25%"  alt="图片名称" align=center/>
+  </div>  
   
   <div  align="center">    
   <img src="/article/SR.png" width = "70%" height = "70%"  alt="图片名称" align=center/>
   </div>
   
-  <div  align="center">    
-  <img src="article/demo.gif" width = "20%" height = "20%"  alt="图片名称" align=center/>
-  </div>
-
 </ProjectCard>
 
 
