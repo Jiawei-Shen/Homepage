@@ -53,8 +53,9 @@ June 2018 - Aug. 2018
   <img src="/article/SR.png" width = "70%" height = "7%0"  alt="图片名称" align=center/>
   </div>
   
-  ![image](article/demo.gif)
-
+  <div  align="center">    
+  <img src="article/demo.gif" width = "70%" height = "7%0"  alt="图片名称" align=center/>
+  </div>
 
 </ProjectCard>
 
