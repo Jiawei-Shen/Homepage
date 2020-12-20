@@ -18,7 +18,7 @@ June 2018 - Aug. 2018
 
 <ProjectCard image="/projects/1.png" hideBorder=true>
 
-  ***Implicit Euler ODE Networks for Single-Image Dehazing Based on Implicit Structure***
+  ### Implicit Euler ODE Networks for Single-Image Dehazing Based on Implicit Structure***
 
   Jiawei Shen, *et al*
 
@@ -39,7 +39,7 @@ June 2018 - Aug. 2018
 
 <ProjectCard hideBorder=true>
 
- ***Technical Research of Super-Resolution Image Reconstruction based on a lightweight network***
+ ### Technical Research of Super-Resolution Image Reconstruction based on a lightweight network***
 
   Wenlan Wei, Juan Du, Jiawei Shen, Ziyu Zhou, *et al*
 
@@ -59,7 +59,7 @@ June 2018 - Aug. 2018
 
 <ProjectCard hideBorder=true>
 
-  ***A Lightweight Network to Learn Optical Flow from Event Data***
+  ### A Lightweight Network to Learn Optical Flow from Event Data***
 
   Zhuoyan Li, Jiawei Shen, *et al*
 
@@ -81,7 +81,7 @@ June 2018 - Aug. 2018
 
 <ProjectCard hideBorder=true>
 
-  ***Student Union  <p align="right">Sept. 2017 - June 2018</p>*** *# freshman in School of Electronic Engineer*
+  ### Student Union  <p align="right">Sept. 2017 - June 2018</p>*** *# freshman in School of Electronic Engineer*
   
   **Position**: President  
 
@@ -91,7 +91,7 @@ June 2018 - Aug. 2018
 
 <ProjectCard hideBorder=true>
 
-  ***Ziqiang Studio  <p align="right">Sept. 2018 - June 2019</p>*** *# Top 10 school union*
+  ### Ziqiang Studio  <p align="right">Sept. 2018 - June 2019</p>*** *# Top 10 school union*
   [Link](https://www.ziqiang.net.cn/#index) (Sorry we don't have the English version)
 
   **Position:** Minister  
@@ -104,7 +104,7 @@ June 2018 - Aug. 2018
 
 <ProjectCard hideBorder=true>
 
-  ***Chebai Intelligent Network Research Institute (Wuhan) Co., Ltd   <p align="right">July 2020 – Dec. 2020</p>***  
+  ### Chebai Intelligent Network Research Institute (Wuhan) Co., Ltd   <p align="right">July 2020 – Dec. 2020</p>***  
 
   Intern in Technical Research and Development Department 
 
@@ -116,7 +116,7 @@ June 2018 - Aug. 2018
 
 <ProjectCard hideBorder=true>
 
-  ***China Mobile (Hubei) Co., Ltd    <p align="right"> Mar. 2020 - July 2020</p>***
+  ### China Mobile (Hubei) Co., Ltd    <p align="right"> Mar. 2020 - July 2020</p>***
 
   NLP Algorithm Engineer Intern 
 
