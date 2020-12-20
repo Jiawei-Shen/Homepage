@@ -53,7 +53,7 @@ June 2018 - Aug. 2018
   <img src="/article/SR.png" width = "70%" height = "7%0"  alt="图片名称" align=center/>
   </div>
   
-  ![image](article/if)
+  ![image](article/demo.gif)
 
 
 </ProjectCard>
@@ -71,7 +71,7 @@ June 2018 - Aug. 2018
   [[Paper](/article/ICPR20_2424_FI.pdf)]
 
   <div  align="center">    
-  <img src="/article/Event.png" width = "70%" height = "7%0"  alt="图片名称" align=center/>
+  <img src="/article/Event.png" width = "70%" height = "70%"  alt="图片名称" align=center/>
   </div>
   
 
@@ -92,7 +92,7 @@ June 2018 - Aug. 2018
   **Key Duties:**  Managing the events of students from 2017 grade. For examples, check the security of the dormitory; establish the emergency funding for the students of 2017 grade; assess and evaluate the scholarship qualification for all the students of 2017 grade. 
   
   <div  align="center">    
-  <img src="/article/student union.jpg" width = "70%" height = "7%0"  alt="图片名称" align=center/>
+  <img src="/article/student union.jpg" width = "55%" height = "55%"  alt="图片名称" align=center/>
   </div>
 
 </ProjectCard>
@@ -107,7 +107,7 @@ June 2018 - Aug. 2018
   **Key Duties:** Manage and Execute several kinds of influencial off-line activities over the University, including off-line activities that advertise our products; "Markets for the Gratuation" that provides students opportunities to reuse the items from the gratuates; and "Top 10 influencial students in Wuhan University". "Top 10 influencial students in Wuhan University" is one of the most important activities in our Universities. With the help of all the colleges, we collect the information of the outstanding students, including undergraduates, graduates, doctors, and even students organization, and select one of the most representive people in each spheres. 
   
   <div  align="center">    
-  <img src="/article/ziqiang.jpg" width = "70%" height = "7%0"  alt="图片名称" align=center/>
+  <img src="/article/ziqiang.jpg" width = "55%" height = "55%"  alt="图片名称" align=center/>
   </div>
 
 </ProjectCard>
