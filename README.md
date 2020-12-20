@@ -18,7 +18,7 @@ June 2018 - Aug. 2018
 
 <ProjectCard image="/projects/1.png" hideBorder=true>
 
-  ### Implicit Euler ODE Networks for Single-Image Dehazing Based on Implicit Structure***
+  ### Implicit Euler ODE Networks for Single-Image Dehazing Based on Implicit Structure
 
   Jiawei Shen, *et al*
 
@@ -31,7 +31,7 @@ June 2018 - Aug. 2018
 
   
   <div  align="center">    
-  <img src="/article/MI.png" width = "70%" height = "7%0"  alt="图片名称" align=center/>
+  <img src="/article/MI.png" width = "70%" height = "70%"  alt="图片名称" align=center/>
   </div>
 
 </ProjectCard>
@@ -39,7 +39,7 @@ June 2018 - Aug. 2018
 
 <ProjectCard hideBorder=true>
 
- ### Technical Research of Super-Resolution Image Reconstruction based on a lightweight network***
+ ### Technical Research of Super-Resolution Image Reconstruction based on a lightweight network
 
   Wenlan Wei, Juan Du, Jiawei Shen, Ziyu Zhou, *et al*
 
@@ -50,11 +50,11 @@ June 2018 - Aug. 2018
 
   
   <div  align="center">    
-  <img src="/article/SR.png" width = "70%" height = "7%0"  alt="图片名称" align=center/>
+  <img src="/article/SR.png" width = "70%" height = "70%"  alt="图片名称" align=center/>
   </div>
   
   <div  align="center">    
-  <img src="article/demo.gif" width = "70%" height = "7%0"  alt="图片名称" align=center/>
+  <img src="article/demo.gif" width = "20%" height = "20%"  alt="图片名称" align=center/>
   </div>
 
 </ProjectCard>
@@ -62,7 +62,7 @@ June 2018 - Aug. 2018
 
 <ProjectCard hideBorder=true>
 
-  ### A Lightweight Network to Learn Optical Flow from Event Data***
+  ### A Lightweight Network to Learn Optical Flow from Event Data
 
   Zhuoyan Li, Jiawei Shen, *et al*
 
@@ -117,7 +117,7 @@ June 2018 - Aug. 2018
 
 <ProjectCard hideBorder=true>
 
-  ### Chebai Intelligent Network Research Institute (Wuhan) Co., Ltd   <p align="right">July 2020 – Dec. 2020</p>***  
+  ### Chebai Intelligent Network Research Institute (Wuhan) Co., Ltd   <p align="right">July 2020 – Dec. 2020</p>
 
   Intern in Technical Research and Development Department 
 
@@ -129,7 +129,7 @@ June 2018 - Aug. 2018
 
 <ProjectCard hideBorder=true>
 
-  ### China Mobile (Hubei) Co., Ltd    <p align="right"> Mar. 2020 - July 2020</p>***
+  ### China Mobile (Hubei) Co., Ltd    <p align="right"> Mar. 2020 - July 2020</p>
 
   NLP Algorithm Engineer Intern 
 
