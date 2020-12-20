@@ -29,7 +29,7 @@ June 2018 - Aug. 2018
   [[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w14/Shen_Implicit_Euler_ODE_Networks_for_Single-Image_Dehazing_CVPRW_2020_paper.pdf)]
   [[Github](https://github.com/Jiawei-Shen/MI-Net)]
 
-  ![Image text]<src="/article/MI.png" width = "300" height = "200"  alt="图片名称" align=center/>
+  ![Image text]<img src="/article/MI.png" width = "300" height = "200"  alt="图片名称" align=center/>
 
 </ProjectCard>
 
