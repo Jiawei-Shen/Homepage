@@ -83,13 +83,11 @@ June 2018 - Aug. 2018
 
 <ProjectCard hideBorder=true>
 
-  ### Student Union  <p align="right">Sept. 2017 - June 2018</p> 
-  
-  *# freshman in School of Electronic Engineer*
+  ### Students' Association  <p align="right">Sept. 2017 - June 2018</p> 
   
   **Position**: President  
 
-  **Key Duties:**  Managing the events of students from 2017 grade. For examples, check the security of the dormitory; establish the emergency funding for the students of 2017 grade; assess and evaluate the scholarship qualification for all the students of 2017 grade. 
+  **Key Duties:** Managing events to serve Class 2017 students, such as dormitory security check, emergency fund establishment, scholarship qualification assessment and evaluation.
   
   <div  align="center">    
   <img src="/article/student union.jpg" width = "55%" height = "55%"  alt="图片名称" align=center/>
@@ -100,11 +98,14 @@ June 2018 - Aug. 2018
 <ProjectCard hideBorder=true>
 
   ### Ziqiang Studio  <p align="right">Sept. 2018 - June 2019</p> 
-  [Link](https://www.ziqiang.net.cn/#index) (Sorry we don't have the English version)
-  *# Top 10 student organization in Universities*
-  **Position:** Minister  
+  
+  * Ziqiang Studio is a student-initiated innovative platfrom to develop SaaS and other software products with a high popularity among target students. It successfully transformed the IT infrastructure and service foundation of target univerities and is renowned among the academic communities.
+  
+  [Link](https://www.ziqiang.net.cn/#index) (In Chinese only) *
+  
+  **Position:** Department Head  
 
-  **Key Duties:** Manage and Execute several kinds of influencial off-line activities over the University, including off-line activities that advertise our products; "Markets for the Gratuation" that provides students opportunities to reuse the items from the gratuates; and "Top 10 influencial students in Wuhan University". "Top 10 influencial students in Wuhan University" is one of the most important activities in our Universities. With the help of all the colleges, we collect the information of the outstanding students, including undergraduates, graduates, doctors, and even students organization, and select one of the most representive people in each spheres. 
+  **Key Duties:** Managing and executing several influential off-line activities, including advertising our products; Coordinating "Graduate Market" that provide students with opportunities to reuse the items from recent graduates; and organised "Top 10 influencial students of Wuhan University" event, which is one of the most important activities in the university. With the help of all colleges, we collect the information of excellent students from all levels, and also students organisations, and select the most representative student from each area.
   
   <div  align="center">    
   <img src="/article/ziqiang.jpg" width = "55%" height = "55%"  alt="图片名称" align=center/>
@@ -112,7 +113,7 @@ June 2018 - Aug. 2018
 
 </ProjectCard>
 
-## Working Experience
+## Work Experience
 
 <ProjectCard hideBorder=true>
 
